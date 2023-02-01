@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tesla%20/static/css/main.a52bfb84.chunk.css",
+    "main.js": "/tesla%20/static/js/main.97dae4a7.chunk.js",
+    "main.js.map": "/tesla%20/static/js/main.97dae4a7.chunk.js.map",
+    "runtime-main.js": "/tesla%20/static/js/runtime-main.dfbe1be8.js",
+    "runtime-main.js.map": "/tesla%20/static/js/runtime-main.dfbe1be8.js.map",
+    "static/js/2.6011ffc9.chunk.js": "/tesla%20/static/js/2.6011ffc9.chunk.js",
+    "static/js/2.6011ffc9.chunk.js.map": "/tesla%20/static/js/2.6011ffc9.chunk.js.map",
+    "static/js/3.93a59b92.chunk.js": "/tesla%20/static/js/3.93a59b92.chunk.js",
+    "static/js/3.93a59b92.chunk.js.map": "/tesla%20/static/js/3.93a59b92.chunk.js.map",
+    "index.html": "/tesla%20/index.html",
+    "precache-manifest.814d80bc392cf1ce903fde951685a41a.js": "/tesla%20/precache-manifest.814d80bc392cf1ce903fde951685a41a.js",
+    "service-worker.js": "/tesla%20/service-worker.js",
+    "static/css/main.a52bfb84.chunk.css.map": "/tesla%20/static/css/main.a52bfb84.chunk.css.map",
+    "static/js/2.6011ffc9.chunk.js.LICENSE.txt": "/tesla%20/static/js/2.6011ffc9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tesla%20/static/media/logo.be622899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfbe1be8.js",
+    "static/js/2.6011ffc9.chunk.js",
+    "static/css/main.a52bfb84.chunk.css",
+    "static/js/main.97dae4a7.chunk.js"
+  ]
+}
